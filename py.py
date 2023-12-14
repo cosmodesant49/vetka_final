@@ -8,4 +8,5 @@ print("newf1")
 print("newf2")
 print("newf3")
 print("newf4")
-
+print("main6")
+print("main7")
