@@ -4,3 +4,8 @@ print("main3")
 print("bugfix1")
 print("main4")
 print("main5")
+print("newf1")
+print("newf2")
+print("newf3")
+print("newf4")
+
